@@ -3,7 +3,7 @@ module.exports = {
   description: `Blog posted about everything with 'JANGJUN' point of view`,
   author: `장준`,
   introduction: `독보적인 장준의 시각, 포스팅 장준`,
-  siteUrl: `https://locolhost:8000`, // Your blog site url
+  siteUrl: `https://jangjunblog.gtsb.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: ``, // Your GitHub account
