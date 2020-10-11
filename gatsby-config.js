@@ -98,7 +98,7 @@ module.exports = {
       options: {
         host: 'https://jangjunblog.gtsb.io',
         sitemap: 'https://jangjunblog.gtsb.io/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/' }]
+        policy: [{ userAgent: '*', allow: '/'}]
       }
     },
     `gatsby-transformer-sharp`,
@@ -108,7 +108,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-lodash`,
-    `gatsby-plugin-sitemap`,
-    `gatsby-plugin-no-index`,
+    `gatsby-plugin-sitemap`
   ],
 }

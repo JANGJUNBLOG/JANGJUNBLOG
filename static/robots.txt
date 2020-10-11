@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://jangjunblog.gtsb.io/sitemap.xml
-Host: https://jangjunblog.gtsb.io
+Disallow:
