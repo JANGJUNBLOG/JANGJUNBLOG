@@ -101,7 +101,6 @@ module.exports = {
         policy: [{ userAgent: '*', allow: '/'}]
       }
     },
-    `gatsby-plugin-no-index`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-feed`,
