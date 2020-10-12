@@ -97,7 +97,7 @@ module.exports = {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://jangjunblog.netlify.app',
-        sitemap: 'https://jangjunblog.netlify.app/sitemap2.xml',
+        sitemap: 'https://jangjunblog.netlify.app/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/'}]
       }
     },
